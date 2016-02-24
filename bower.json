@@ -1,0 +1,18 @@
+{
+  "name": "slider",
+  "homepage": "https://github.com/rcardiff1/slider",
+  "authors": [
+    "Robert Cardiff"
+  ],
+  "description": "Simple HTML5 slider with tooltip",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
